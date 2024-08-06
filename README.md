@@ -1,5 +1,3 @@
-Creating a detailed README for your WiFi Extender/Repeater project can greatly enhance its usability and clarity for other developers and users. Here's a comprehensive example:
-
 ---
 
 # WiFi Extender/Repeater
